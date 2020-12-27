@@ -1,4 +1,4 @@
-#### Gamedev's my hobby. Have been wanting to learn webdev but haven't got the chance. Hates algorithms.
+#### Gamedev's my hobby. Have been wanting to learn webdev but haven't got the chance. Hates algorithms. Favorite language C#.
 ![Stats](https://github-readme-stats.vercel.app/api?username=palapapa&show_icons=true&theme=merko&layout)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palapapa&theme=merko&layout=compact)
