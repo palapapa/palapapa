@@ -6,3 +6,5 @@
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=palapapa&theme=merko)
 <br>
 ![Chart](https://wakatime.com/share/@palapapa/f76707a7-0ea5-46c8-8aec-d2589112284d.svg)
+<br>
+![](https://komarev.com/ghpvc/?username=palapapa&style=flat-square&color=green)
