@@ -2,10 +2,10 @@
 
 [![GitRoll](https://gitroll.io/api/badges/profiles/v1/ug6IT5wx6CLTpAtX0B0J29kCw3A13?theme=dark)](https://gitroll.io/profile/ug6IT5wx6CLTpAtX0B0J29kCw3A13)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=palapapa&show_icons=true&theme=github_dark_dimmed&layout&include_all_commits=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=palapapa&show_icons=true&layout&include_all_commits=true&title_color=fefefe&text_color=fefefe&icon_color=16a34a&bg_color=18181b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palapapa&theme=github_dark_dimmed&layout=compact&langs_count=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palapapa&layout=compact&langs_count=10&title_color=fefefe&text_color=fefefe&icon_color=16a34a&bg_color=18181b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=palapapa&theme=discord&column=-1)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=palapapa&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Views](https://komarev.com/ghpvc/?username=palapapa&style=flat-square&color=green)
